@@ -1,0 +1,163 @@
+[
+  {
+    "data": {
+      "assetDetails": {
+        "assetId": "SMS_60505",
+        "assetType": "static",
+        "workshop": "yes",
+        "site": "location",
+        "application": "app",
+        "manufacturer": "iema"
+      },
+
+      "assetSpecification": {
+        "frame": "abc",
+        "deBearingNumber": "123",
+        "ndeBearingNumber": "123",
+        "ratedRPM": "abc",
+        "ratedPower": "32W",
+        "ratedVoltage": "1V",
+        "lineFrequency": "43Hz",
+        "powerFactor": "mnb",
+        "ratedAmbientTemperature": "124"
+      },
+
+      "sensorsConnected": {
+        "modelNo": "145",
+        "ndeSensorID": "745",
+        "deSensorID": "145",
+        "sampleRate": "852",
+        "ratedSensorTemperature": "41C"
+      },
+
+      "spectralAnalysis": {
+        "accelerationSpectraGraph": "graph value",
+        "accTangentialv1": "v1",
+        "accTangentialv2": "v2",
+        "accAxialv1": "v1",
+        "accAxialv2": "v2",
+        "velTangentialv1": "v1",
+        "velTangentialv2": "v2",
+        "velAxialv1": "v1",
+        "velAxialv2": "v2",
+        "velocitySpectraGraph": "graph value"
+      },
+
+      "amplitude": {
+        "accSpectraAmplitudeGraph": "graph value",
+        "velSpectraAmplitudeGraph": "graph value",
+        "accFreqv1": "v1",
+        "accFreqv2": "v2",
+        "accFreqv3": "v3",
+        "accFreqv4": "v4",
+        "accFreqv5": "v5",
+        "accFreqv6": "v6",
+        "accFreqv7": "v7",
+        "accFreqv8": "v8",
+        "accFreqv9": "v9",
+        "accRadialv1": "v1",
+        "accRadialv2": "v2",
+        "accRadialv3": "v3",
+        "accRadialv4": "v4",
+        "accRadialv5": "v5",
+        "accRadialv6": "v6",
+        "accRadialv7": "v7",
+        "accRadialv8": "v8",
+        "accRadialv9": "v9",
+        "accAxialv1": "v1",
+        "accAxialv2": "v2",
+        "accAxialv3": "v3",
+        "accAxialv4": "v4",
+        "accAxialv5": "v5",
+        "accAxialv6": "v6",
+        "accAxialv7": "v7",
+        "accAxialv8": "v8",
+        "accAxialv9": "v9",
+        "accTangentialv1": "v1",
+        "accTangentialv2": "v2",
+        "accTangentialv3": "v3",
+        "accTangentialv4": "v4",
+        "accTangentialv5": "v5",
+        "accTangentialv6": "v6",
+        "accTangentialv7": "v7",
+        "accTangentialv8": "v8",
+        "accTangentialv9": "v9",
+        "velFreqv1": "v1",
+        "velFreqv2": "v2",
+        "velFreqv3": "v3",
+        "velFreqv4": "v4",
+        "velFreqv5": "v5",
+        "velFreqv6": "v6",
+        "velFreqv7": "v7",
+        "velFreqv8": "v8",
+        "velFreqv9": "v9",
+        "velRadialv1": "v1",
+        "velRadialv2": "v2",
+        "velRadialv3": "v3",
+        "velRadialv4": "v4",
+        "velRadialv5": "v5",
+        "velRadialv6": "v6",
+        "velRadialv7": "v7",
+        "velRadialv8": "v8",
+        "velRadialv9": "v9",
+        "velAxialv1": "v1",
+        "velAxialv2": "v2",
+        "velAxialv3": "v3",
+        "velAxialv4": "v4",
+        "velAxialv5": "v5",
+        "velAxialv6": "v6",
+        "velAxialv7": "v7",
+        "velAxialv8": "v8",
+        "velAxialv9": "v9",
+        "velTangentialv1": "v1",
+        "velTangentialv2": "v2",
+        "velTangentialv3": "v3",
+        "velTangentialv4": "v4",
+        "velTangentialv5": "v5",
+        "velTangentialv6": "v6",
+        "velTangentialv7": "v7",
+        "velTangentialv8": "v8",
+        "velTangentialv9": "v9"
+      },
+
+      "bearingFrequencies": {
+        "DEouterRace": "0",
+        "DEinnerRace": "0",
+        "DEballSpin": "0",
+        "DEballCage": "0",
+        "NDEouterRace": "0",
+        "NDEinnerRace": "0",
+        "NDEballSpin": "0",
+        "NDEballCage": "0"
+      },
+
+      "machineDiagnostics": {
+        "ultraSonicSpectraGraph": "graph value",
+        "magneticFieldSpectragraph": "graph value",
+        "vibrationVelocityT1": "T1v1",
+        "vibrationVelocityT2": "T2v2",
+        "vibrationVelocityA1": "A1v1",
+        "vibrationVelocityA2": "A2v2",
+        "vibrationVelocityR1": "R1v1",
+        "vibrationVelocityR2": "R2v2",
+        "temperatureT1": "T1v1",
+        "temperatureT2": "T2v2",
+        "temperatureA1": "A1v1",
+        "temperatureA2": "A2v2",
+        "temperatureR1": "R1v1",
+        "temperatureR2": "R2v2"
+      },
+
+      "past24HrMonitoringTrend": {
+        "vibrationAccTrendGraph": "graph value",
+        "vibrationVelTrendGraph": "graph value",
+        "tempTrendGraph": "graph value"
+      },
+
+      "past24HrMonitoringAcoustics": {
+        "machineAccousticsGraph1": "graph value",
+        "machineAccousticsGraph2": "graph value"
+      }
+    }
+  }
+]
